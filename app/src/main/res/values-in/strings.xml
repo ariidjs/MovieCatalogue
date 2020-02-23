@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="exit_msg">Apakah anda yakin akan keluar?</string>
+    <string name="exit_yes">Ya</string>
+    <string name="exit_cancel">Batal</string>
+    <string name="settings">Pengaturan</string>
+    <string name="lang">Ganti Bahasa</string>
+    <string name="message_daily">Cek Aplikasi ini!</string>
+    <string name="message_release">Ada yang baru nih!</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Film Baru</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_release">key_release</string>
+    <string name="summary_daily_reminder">Klik on/off untuk pengingat harian. pengingat harian aktif setiap jam 07.00 Pagi</string>
+    <string name="summary_release_reminder">Klik on/off untuk pengingat film baru. pengingat film baru aktif setiap jam 08.00 Pagi</string>
+    <string name="favorite_btn">Favorite</string>
+    <string name="summary_movie">Anda belum mempunyai film favorit.\nCoba tambahkan</string>
+    <string name="summary_tv">Anda belum mempunyai acara tv favorit.\nCoba tambahkan</string>
+    <string name="english">Inggris</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="title_tab1">Daftar Film</string>
+    <string name="title_tab2">Daftar Show TV</string>
+    <string name="choose_lang">Pilih Bahasa</string>
+    <string name="content_description">Poster</string>
+    <string name="notif_title">Pengingat</string>
+
+    <!--string film-->
+    <string name="title">Judul Film</string>
+    <string name="rating">Nilai : </string>
+    <string name="popularity">Popularitas : </string>
+    <string name="popularity_fill">10</string>
+    <string name="release">Tanggal Release : </string>
+    <string name="date_release">Release</string>
+    <string name="favorite">Tambahan ke Daftar Favorite</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail">Keterangan Film</string>
+    <string name="tvcontent_description">Poster</string>
+
+
+    <!--string tv show-->
+    <string name="tv_show_title">Judul Show Tv</string>
+    <string name="tv_show_tgl">Tanggal Release : </string>
+    <string name="tv_show_genre">Aliran</string>
+    <string name="tv_show_year">Tahun</string>
+    <string name="tv_show_description">Deskripsi</string>
+    <string name="detail_tv">Keterangan TV Show</string>
+
+
+    <string name="title_activity_favorite">Daftar Favorite</string>
+</resources>

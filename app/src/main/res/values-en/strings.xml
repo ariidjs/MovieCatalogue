@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieCatalogue</string>
+    <string name="exit_msg">Are you sure to exit?</string>
+    <string name="exit_yes">Yes</string>
+    <string name="exit_cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="lang">Change Language</string>
+    <string name="message_daily">Check this App!</string>
+    <string name="message_release">Hot! Release Today</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_release">key_release</string>
+    <string name="summary_daily_reminder">Turn on/off daily reminder. daily reminder is at 7AM</string>
+    <string name="summary_release_reminder">Turn on/off release reminder. release reminder is active at 8AM</string>
+    <string name="summary_movie">You dont have favorite movie.\nPlease Add some</string>
+    <string name="summary_tv">You dont have favorite tv show.\nPlease Add some</string>
+    <string name="favorite_btn">Favorite</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="title_tab1">List Movie</string>
+    <string name="title_tab2">List Tv Show</string>
+    <string name="choose_lang">Choose Language</string>
+    <string name="notif_title">Movie/TV Reminder</string>
+
+    <!--string movie-->
+    <string name="title">Movie Title</string>
+    <string name="rating">Rating : </string>
+    <string name="popularity">Popularity : </string>
+    <string name="popularity_fill">10</string>
+    <string name="release">Release Date : </string>
+    <string name="favorite">Add To Favorite</string>
+    <string name="date_release">Release</string>
+    <string name="description">Description</string>
+    <string name="detail">Detail Movie</string>
+    <string name="content_description">Poster</string>
+
+
+    <!--string tv show-->
+    <string name="tv_show_title">Tv Show Title</string>
+    <string name="tv_show_tgl">Release Date : </string>
+    <string name="tv_show_genre">Genre</string>
+    <string name="tv_show_year">Year</string>
+    <string name="tv_show_description">Description</string>
+    <string name="detail_tv">Detail TV Show</string>
+    <string name="tvcontent_description">Poster</string>
+
+    <string name="title_activity_favorite">List Favorite</string>
+
+</resources>

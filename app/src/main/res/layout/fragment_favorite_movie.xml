@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context=".fragments.FavoriteMovieFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_movie_fav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtDescription"
+        android:layout_below="@id/recycler_movie_fav"
+        android:text="@string/summary_movie"
+        android:textAlignment="center"
+        android:layout_marginTop="150dp"
+        android:textSize="20sp"/>
+</RelativeLayout>
